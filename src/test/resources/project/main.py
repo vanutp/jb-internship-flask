@@ -1,0 +1,2 @@
+var = 'meow'
+print(var)

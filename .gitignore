@@ -1,0 +1,8 @@
+.gradle
+.idea
+.intellijPlatform
+.qodana
+build
+.direnv
+allure-results
+out
